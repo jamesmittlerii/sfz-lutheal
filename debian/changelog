@@ -1,0 +1,5 @@
+sfz-lutheal (1.0.0) bookworm; urgency=medium
+
+  * Initial Debian package release.
+
+ -- James Mittler <jamesmittlerii@my.smccd.edu>  Thu, 19 Jun 2026 12:00:00 -0700

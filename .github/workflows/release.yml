@@ -1,0 +1,231 @@
+name: SFZ release
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+  pull_request:
+
+concurrency:
+  group: sfz-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+env:
+  APTREPO_SLUG: jamesmittlerii/aptrepo
+  APT_CODENAME: bookworm
+
+jobs:
+  test:
+    name: Verify packaging
+    runs-on: ubuntu-24.04
+    container: debian:bookworm
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Install tools
+        run: apt-get update && apt-get install -y bash findutils grep sed
+
+      - name: Verify SFZ rewrite and sample counts
+        run: |
+          chmod +x scripts/*.sh
+          ./scripts/verify-package.sh
+
+  prepare-release:
+    name: Bump version
+    needs: test
+    if: >-
+      github.event_name == 'push'
+      && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+      && !contains(github.event.head_commit.message, '[skip ci]')
+    runs-on: ubuntu-24.04
+    outputs:
+      version: ${{ steps.bump.outputs.version }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Bump semver
+        id: bump
+        run: |
+          chmod +x scripts/bump-version.sh scripts/update-debian-changelog.sh
+          new="$(./scripts/bump-version.sh patch)"
+          ./scripts/update-debian-changelog.sh "${new}"
+          echo "version=${new}" >> "${GITHUB_OUTPUT}"
+          echo "Bumped to ${new}"
+
+      - name: Upload release metadata
+        uses: actions/upload-artifact@v6
+        with:
+          name: release-metadata
+          path: |
+            VERSION
+            debian/changelog
+
+  build:
+    name: Build .deb and sample tar
+    needs: prepare-release
+    runs-on: ubuntu-24.04
+    container: debian:bookworm
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Download release metadata
+        uses: actions/download-artifact@v7
+        with:
+          name: release-metadata
+
+      - name: Install packaging tools
+        run: apt-get update && apt-get install -y devscripts debhelper bash findutils grep sed
+
+      - name: Build sample tarball and Debian package
+        run: |
+          set -euo pipefail
+          chmod +x scripts/*.sh debian/rules
+          ./scripts/build-samples-tar.sh
+          export DEB_BUILD_OPTIONS="nocheck noautodbgsym"
+          dpkg-buildpackage -us -uc -b -d
+          mkdir -p dist
+          mv ../sfz-lutheal_*.deb dist/
+          ./scripts/check-deb-contents.sh
+          ls -lah dist/
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v6
+        with:
+          name: release-assets
+          path: |
+            dist/*.deb
+            dist/*.tar
+
+  publish-apt:
+    name: Publish APT repo
+    needs:
+      - prepare-release
+      - build
+    runs-on: ubuntu-24.04
+    container: debian:bookworm
+    steps:
+      - name: Install packaging tools
+        run: apt-get update && apt-get install -y --no-install-recommends git reprepro ca-certificates
+
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Download built packages
+        uses: actions/download-artifact@v7
+        with:
+          name: release-assets
+          path: debs
+
+      - name: Publish to apt repository
+        shell: bash
+        env:
+          VERSION: ${{ needs.prepare-release.outputs.version }}
+          APTREPO_PUSH_TOKEN: ${{ secrets.APTREPO_PUSH_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${APTREPO_PUSH_TOKEN:-}" ]; then
+            echo "ERROR: APTREPO_PUSH_TOKEN secret is not set on this repository." >&2
+            exit 1
+          fi
+
+          work="${GITHUB_WORKSPACE}"
+          rm -rf "${work}/aptrepo"
+          git clone "https://x-access-token:${APTREPO_PUSH_TOKEN}@github.com/${APTREPO_SLUG}.git" "${work}/aptrepo"
+          cd "${work}/aptrepo"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --heads origin gh-pages | grep -q gh-pages; then
+            git checkout gh-pages
+          else
+            git checkout --orphan gh-pages
+            git rm -rf . 2>/dev/null || true
+          fi
+
+          mkdir -p conf
+          cp "${work}/packaging/aptrepo-bootstrap/conf/distributions" conf/distributions
+          cp "${work}/packaging/aptrepo-bootstrap/.gitignore" .gitignore
+          cp "${work}/packaging/aptrepo-bootstrap/.nojekyll" .nojekyll
+          sed -i '/^\*\.deb$/d' .gitignore
+
+          shopt -s nullglob
+          debs=("${work}"/debs/sfz-lutheal_*.deb)
+          if [ ${#debs[@]} -eq 0 ]; then
+            echo "ERROR: no sfz-lutheal .deb files found" >&2
+            exit 1
+          fi
+          for deb in "${debs[@]}"; do
+            echo "Adding ${deb}"
+            reprepro -b . includedeb "${APT_CODENAME}" "${deb}"
+          done
+
+          rm -rf db dists
+          shopt -s nullglob
+          pool_debs=(pool/main/*/*/*.deb)
+          for deb in "${pool_debs[@]}"; do
+            echo "Indexing ${deb}"
+            reprepro -b . includedeb "${APT_CODENAME}" "${deb}"
+          done
+
+          git add -A
+          git add -f pool/ dists/
+          if git diff --staged --quiet; then
+            echo "No aptrepo changes to publish"
+          else
+            git commit -m "sfz-lutheal ${VERSION}"
+            git push origin gh-pages
+          fi
+
+  release-tag:
+    name: Tag and GitHub release
+    needs:
+      - prepare-release
+      - build
+      - publish-apt
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Download release metadata
+        uses: actions/download-artifact@v7
+        with:
+          name: release-metadata
+
+      - name: Download built assets
+        uses: actions/download-artifact@v7
+        with:
+          name: release-assets
+          path: dist
+
+      - name: Commit version bump and tag
+        shell: bash
+        env:
+          VERSION: ${{ needs.prepare-release.outputs.version }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add VERSION debian/changelog
+          git commit -m "chore(release): v${VERSION} [skip ci]"
+          git tag -a "v${VERSION}" -m "Release v${VERSION}"
+          git push origin HEAD
+          git push origin "v${VERSION}"
+
+      - name: Upload release assets
+        uses: softprops/action-gh-release@v3
+        with:
+          tag_name: v${{ needs.prepare-release.outputs.version }}
+          name: v${{ needs.prepare-release.outputs.version }}
+          files: |
+            dist/sfz-lutheal_*.deb
+            dist/sfz-lutheal-samples_*.tar
+          generate_release_notes: true

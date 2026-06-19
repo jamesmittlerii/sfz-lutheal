@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+dist/
+packaging/lutheal-cimbalom.sfz
+packaging/.sample-version
+
+# Debian package output
+*.deb
+*.changes
+*.buildinfo
+*.dsc

@@ -1,0 +1,16 @@
+#!/bin/sh
+set -e
+
+INSTROOT="/usr/share/sfz/pianos/lutheal"
+
+case "$1" in
+    purge)
+        rm -rf "${INSTROOT}/samples"
+        ;;
+    remove|upgrade|failed-upgrade|disappear)
+        ;;
+esac
+
+#DEBHELPER#
+
+exit 0

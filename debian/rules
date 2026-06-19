@@ -1,0 +1,17 @@
+#!/usr/bin/make -f
+
+export DH_VERBOSE = 1
+
+%:
+	dh $@
+
+override_dh_auto_build:
+	./scripts/prepare-sfz.sh
+	cp VERSION packaging/.sample-version
+
+override_dh_auto_install:
+	dh_auto_install
+	# Only paths in debian/sfz-lutheal.install are shipped (not save/ or scripts/).
+
+override_dh_auto_test:
+	./scripts/verify-package.sh

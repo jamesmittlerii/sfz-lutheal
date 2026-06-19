@@ -1,0 +1,23 @@
+Source: sfz-lutheal
+Section: sound
+Priority: optional
+Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
+Homepage: https://github.com/jamesmittlerii/sfz-lutheal
+Rules-Requires-Root: no
+Vcs-Browser: https://github.com/jamesmittlerii/sfz-lutheal
+Vcs-Git: https://github.com/jamesmittlerii/sfz-lutheal.git
+
+Package: sfz-lutheal
+Architecture: all
+Depends: ${misc:Depends},
+ ca-certificates,
+ curl | wget,
+ tar
+Description: Luthéal Piano Cimbalom SFZ instrument
+ SFZ instrument mapping of the Luthéal piano in cimbalom (all stops) registration.
+ .
+ Sample FLACs are downloaded on first install from the project's GitHub release
+ assets (~1 GiB). The SFZ is installed to /usr/share/sfz/pianos/lutheal/ for
+ use with SFZ-compatible samplers (sfizz, Sforzando, etc.).
