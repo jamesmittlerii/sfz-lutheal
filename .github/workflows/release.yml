@@ -83,6 +83,7 @@ jobs:
         run: apt-get update && apt-get install -y devscripts debhelper bash findutils grep sed
 
       - name: Build sample tarball and Debian package
+        shell: bash
         run: |
           set -euo pipefail
           chmod +x scripts/*.sh debian/rules
