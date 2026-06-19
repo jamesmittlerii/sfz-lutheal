@@ -1,0 +1,6812 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : Kontakt2
+//// Category: Piano
+
+<global>
+global_label=Luthéal Piano - Release Cimbalom (All Stops)
+ampeg_hold=3.809308424251867E-12 ampeg_decay=25.00003125 ampeg_release=25.00003125 ampeg_sustain=100.0 ampeg_attack_shape=0.078125
+
+<group>
+group_label=Group 1
+trigger=release
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=105
+hivel=15
+offset=0 end=31292
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=104
+hivel=15
+offset=0 end=20342
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=103
+hivel=15
+offset=0 end=23740
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=102
+hivel=15
+offset=0 end=19771
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=101
+hivel=15
+offset=0 end=21907
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_E8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=100
+hivel=15
+offset=0 end=24261
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=99
+hivel=15
+offset=0 end=18644
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=98
+hivel=15
+offset=0 end=24688
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=97
+hivel=15
+offset=0 end=15215
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=96
+hivel=15
+offset=0 end=20165
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_B7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=95
+hivel=15
+offset=0 end=18214
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=94
+hivel=15
+offset=0 end=25892
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=93
+hivel=15
+offset=0 end=19752
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=92
+hivel=15
+offset=0 end=19576
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=91
+hivel=15
+offset=0 end=23757
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=90
+hivel=15
+offset=0 end=17762
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=89
+hivel=15
+offset=0 end=20727
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_E7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=88
+hivel=15
+offset=0 end=15100
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=87
+hivel=15
+offset=0 end=21661
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=86
+hivel=15
+offset=0 end=27214
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=85
+hivel=15
+offset=0 end=23296
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=84
+hivel=15
+offset=0 end=28826
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_B6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=83
+hivel=15
+offset=0 end=26593
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=82
+hivel=15
+offset=0 end=31951
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=81
+hivel=15
+offset=0 end=23975
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=80
+hivel=15
+offset=0 end=24670
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=79
+hivel=15
+offset=0 end=21575
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=78
+hivel=15
+offset=0 end=21906
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=77
+hivel=15
+offset=0 end=20627
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_E6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=76
+hivel=15
+offset=0 end=28227
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=75
+hivel=15
+offset=0 end=19840
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=74
+hivel=15
+offset=0 end=21053
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=73
+hivel=15
+offset=0 end=17939
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=72
+hivel=15
+offset=0 end=23916
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_B5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=71
+hivel=15
+offset=0 end=23336
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=70
+hivel=15
+offset=0 end=17370
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=69
+hivel=15
+offset=0 end=22048
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=68
+hivel=15
+offset=0 end=32552
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=67
+hivel=15
+offset=0 end=28306
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=66
+hivel=15
+offset=0 end=23806
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=65
+hivel=15
+offset=0 end=24147
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_E5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=64
+hivel=15
+offset=0 end=32112
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=63
+hivel=15
+offset=0 end=30188
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=62
+hivel=15
+offset=0 end=24359
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=61
+hivel=15
+offset=0 end=30141
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=60
+hivel=15
+offset=0 end=24832
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_B4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=59
+hivel=15
+offset=0 end=30937
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=58
+hivel=15
+offset=0 end=41756
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=57
+hivel=15
+offset=0 end=29481
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=56
+hivel=15
+offset=0 end=28106
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=55
+hivel=15
+offset=0 end=38130
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=54
+hivel=15
+offset=0 end=25094
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=53
+hivel=15
+offset=0 end=30152
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_E4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=52
+hivel=15
+offset=0 end=28297
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=51
+hivel=15
+offset=0 end=31365
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=50
+hivel=15
+offset=0 end=33485
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=49
+hivel=15
+offset=0 end=29092
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=48
+hivel=15
+offset=0 end=33409
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_B3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=47
+hivel=15
+offset=0 end=38266
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=46
+hivel=15
+offset=0 end=30578
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=45
+hivel=15
+offset=0 end=27042
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=44
+hivel=15
+offset=0 end=26644
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=43
+hivel=15
+offset=0 end=30977
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=42
+hivel=15
+offset=0 end=24858
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=41
+hivel=15
+offset=0 end=29969
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_E3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=40
+hivel=15
+offset=0 end=22995
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=39
+hivel=15
+offset=0 end=26226
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=38
+hivel=15
+offset=0 end=23084
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=37
+hivel=15
+offset=0 end=31247
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=36
+hivel=15
+offset=0 end=23362
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_B2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=35
+hivel=15
+offset=0 end=23057
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=34
+hivel=15
+offset=0 end=23157
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=33
+hivel=15
+offset=0 end=29338
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=32
+hivel=15
+offset=0 end=27444
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_G2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=31
+hivel=15
+offset=0 end=23695
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=30
+hivel=15
+offset=0 end=17843
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_F2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=29
+hivel=15
+offset=0 end=33599
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_E2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=28
+hivel=15
+offset=0 end=27450
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=27
+hivel=15
+offset=0 end=26045
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_D2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=26
+hivel=15
+offset=0 end=20147
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=25
+hivel=15
+offset=0 end=22418
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_C2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=24
+hivel=15
+offset=0 end=28934
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_B1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=23
+hivel=15
+offset=0 end=26039
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A#1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=22
+hivel=15
+offset=0 end=29076
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/08_A1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=21
+hivel=15
+offset=0 end=36399
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=105
+lovel=16 hivel=31
+offset=0 end=18285
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=104
+lovel=16 hivel=31
+offset=0 end=30165
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=103
+lovel=16 hivel=31
+offset=0 end=34452
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=102
+lovel=16 hivel=31
+offset=0 end=20038
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=101
+lovel=16 hivel=31
+offset=0 end=20449
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_E8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=100
+lovel=16 hivel=31
+offset=0 end=18526
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=99
+lovel=16 hivel=31
+offset=0 end=21682
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=98
+lovel=16 hivel=31
+offset=0 end=17630
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=97
+lovel=16 hivel=31
+offset=0 end=19680
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=96
+lovel=16 hivel=31
+offset=0 end=24709
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_B7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=95
+lovel=16 hivel=31
+offset=0 end=22978
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=94
+lovel=16 hivel=31
+offset=0 end=22921
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=93
+lovel=16 hivel=31
+offset=0 end=20208
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=92
+lovel=16 hivel=31
+offset=0 end=24146
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=91
+lovel=16 hivel=31
+offset=0 end=17979
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=90
+lovel=16 hivel=31
+offset=0 end=20516
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=89
+lovel=16 hivel=31
+offset=0 end=21960
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_E7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=88
+lovel=16 hivel=31
+offset=0 end=19118
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=87
+lovel=16 hivel=31
+offset=0 end=20222
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=86
+lovel=16 hivel=31
+offset=0 end=21842
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=85
+lovel=16 hivel=31
+offset=0 end=41320
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=84
+lovel=16 hivel=31
+offset=0 end=26201
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_B6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=83
+lovel=16 hivel=31
+offset=0 end=22818
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=82
+lovel=16 hivel=31
+offset=0 end=19783
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=81
+lovel=16 hivel=31
+offset=0 end=29823
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=80
+lovel=16 hivel=31
+offset=0 end=26557
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=79
+lovel=16 hivel=31
+offset=0 end=17268
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=78
+lovel=16 hivel=31
+offset=0 end=28542
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=77
+lovel=16 hivel=31
+offset=0 end=17232
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_E6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=76
+lovel=16 hivel=31
+offset=0 end=15882
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=75
+lovel=16 hivel=31
+offset=0 end=24359
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=74
+lovel=16 hivel=31
+offset=0 end=17513
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=73
+lovel=16 hivel=31
+offset=0 end=15292
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=72
+lovel=16 hivel=31
+offset=0 end=27044
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_B5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=71
+lovel=16 hivel=31
+offset=0 end=28925
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=70
+lovel=16 hivel=31
+offset=0 end=22239
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=69
+lovel=16 hivel=31
+offset=0 end=20962
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=68
+lovel=16 hivel=31
+offset=0 end=23743
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=67
+lovel=16 hivel=31
+offset=0 end=30750
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=66
+lovel=16 hivel=31
+offset=0 end=16982
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=65
+lovel=16 hivel=31
+offset=0 end=21853
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_E5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=64
+lovel=16 hivel=31
+offset=0 end=30926
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=63
+lovel=16 hivel=31
+offset=0 end=33663
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=62
+lovel=16 hivel=31
+offset=0 end=30000
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=61
+lovel=16 hivel=31
+offset=0 end=22899
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=60
+lovel=16 hivel=31
+offset=0 end=28604
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_B4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=59
+lovel=16 hivel=31
+offset=0 end=34343
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=58
+lovel=16 hivel=31
+offset=0 end=26902
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=57
+lovel=16 hivel=31
+offset=0 end=26815
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=56
+lovel=16 hivel=31
+offset=0 end=29373
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=55
+lovel=16 hivel=31
+offset=0 end=38638
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=54
+lovel=16 hivel=31
+offset=0 end=29516
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=53
+lovel=16 hivel=31
+offset=0 end=28213
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_E4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=52
+lovel=16 hivel=31
+offset=0 end=26962
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=51
+lovel=16 hivel=31
+offset=0 end=34828
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=50
+lovel=16 hivel=31
+offset=0 end=23176
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=49
+lovel=16 hivel=31
+offset=0 end=37508
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=48
+lovel=16 hivel=31
+offset=0 end=36690
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_B3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=47
+lovel=16 hivel=31
+offset=0 end=35303
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=46
+lovel=16 hivel=31
+offset=0 end=26816
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=45
+lovel=16 hivel=31
+offset=0 end=23678
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=44
+lovel=16 hivel=31
+offset=0 end=30113
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=43
+lovel=16 hivel=31
+offset=0 end=37642
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=42
+lovel=16 hivel=31
+offset=0 end=21634
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=41
+lovel=16 hivel=31
+offset=0 end=25600
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_E3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=40
+lovel=16 hivel=31
+offset=0 end=27647
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=39
+lovel=16 hivel=31
+offset=0 end=25112
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=38
+lovel=16 hivel=31
+offset=0 end=26455
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=37
+lovel=16 hivel=31
+offset=0 end=17968
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=36
+lovel=16 hivel=31
+offset=0 end=17021
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_B2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=35
+lovel=16 hivel=31
+offset=0 end=26784
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=34
+lovel=16 hivel=31
+offset=0 end=23909
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=33
+lovel=16 hivel=31
+offset=0 end=30887
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=32
+lovel=16 hivel=31
+offset=0 end=25654
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_G2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=31
+lovel=16 hivel=31
+offset=0 end=24380
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=30
+lovel=16 hivel=31
+offset=0 end=20508
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_F2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=29
+lovel=16 hivel=31
+offset=0 end=24267
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_E2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=28
+lovel=16 hivel=31
+offset=0 end=23880
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=27
+lovel=16 hivel=31
+offset=0 end=33126
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_D2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=26
+lovel=16 hivel=31
+offset=0 end=33046
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=25
+lovel=16 hivel=31
+offset=0 end=27037
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_C2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=24
+lovel=16 hivel=31
+offset=0 end=31430
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_B1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=23
+lovel=16 hivel=31
+offset=0 end=22415
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A#1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=22
+lovel=16 hivel=31
+offset=0 end=22904
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/07_A1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=21
+lovel=16 hivel=31
+offset=0 end=29315
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=105
+lovel=32 hivel=47
+offset=0 end=27528
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=104
+lovel=32 hivel=47
+offset=0 end=17625
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=103
+lovel=32 hivel=47
+offset=0 end=24998
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=102
+lovel=32 hivel=47
+offset=0 end=17342
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=101
+lovel=32 hivel=47
+offset=0 end=18670
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_E8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=100
+lovel=32 hivel=47
+offset=0 end=20463
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=99
+lovel=32 hivel=47
+offset=0 end=27184
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=98
+lovel=32 hivel=47
+offset=0 end=17669
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=97
+lovel=32 hivel=47
+offset=0 end=19645
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=96
+lovel=32 hivel=47
+offset=0 end=30860
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_B7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=95
+lovel=32 hivel=47
+offset=0 end=19128
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=94
+lovel=32 hivel=47
+offset=0 end=19167
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=93
+lovel=32 hivel=47
+offset=0 end=20598
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=92
+lovel=32 hivel=47
+offset=0 end=27458
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=91
+lovel=32 hivel=47
+offset=0 end=27919
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=90
+lovel=32 hivel=47
+offset=0 end=31303
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=89
+lovel=32 hivel=47
+offset=0 end=16908
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_E7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=88
+lovel=32 hivel=47
+offset=0 end=24187
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=87
+lovel=32 hivel=47
+offset=0 end=19420
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=86
+lovel=32 hivel=47
+offset=0 end=21141
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=85
+lovel=32 hivel=47
+offset=0 end=19820
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=84
+lovel=32 hivel=47
+offset=0 end=23952
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_B6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=83
+lovel=32 hivel=47
+offset=0 end=28581
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=82
+lovel=32 hivel=47
+offset=0 end=25812
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=81
+lovel=32 hivel=47
+offset=0 end=25497
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=80
+lovel=32 hivel=47
+offset=0 end=20029
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=79
+lovel=32 hivel=47
+offset=0 end=23076
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=78
+lovel=32 hivel=47
+offset=0 end=20099
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=77
+lovel=32 hivel=47
+offset=0 end=19997
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_E6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=76
+lovel=32 hivel=47
+offset=0 end=22409
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=75
+lovel=32 hivel=47
+offset=0 end=24558
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=74
+lovel=32 hivel=47
+offset=0 end=13070
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=73
+lovel=32 hivel=47
+offset=0 end=24298
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=72
+lovel=32 hivel=47
+offset=0 end=26674
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_B5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=71
+lovel=32 hivel=47
+offset=0 end=25121
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=70
+lovel=32 hivel=47
+offset=0 end=22078
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=69
+lovel=32 hivel=47
+offset=0 end=28280
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=68
+lovel=32 hivel=47
+offset=0 end=27196
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=67
+lovel=32 hivel=47
+offset=0 end=28271
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=66
+lovel=32 hivel=47
+offset=0 end=19081
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=65
+lovel=32 hivel=47
+offset=0 end=25530
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_E5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=64
+lovel=32 hivel=47
+offset=0 end=31539
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=63
+lovel=32 hivel=47
+offset=0 end=22499
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=62
+lovel=32 hivel=47
+offset=0 end=20801
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=61
+lovel=32 hivel=47
+offset=0 end=25235
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=60
+lovel=32 hivel=47
+offset=0 end=32701
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_B4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=59
+lovel=32 hivel=47
+offset=0 end=24658
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=58
+lovel=32 hivel=47
+offset=0 end=33046
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=57
+lovel=32 hivel=47
+offset=0 end=32679
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=56
+lovel=32 hivel=47
+offset=0 end=26150
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=55
+lovel=32 hivel=47
+offset=0 end=27976
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=54
+lovel=32 hivel=47
+offset=0 end=29809
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=53
+lovel=32 hivel=47
+offset=0 end=25808
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_E4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=52
+lovel=32 hivel=47
+offset=0 end=35378
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=51
+lovel=32 hivel=47
+offset=0 end=26828
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=50
+lovel=32 hivel=47
+offset=0 end=28096
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=49
+lovel=32 hivel=47
+offset=0 end=33536
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=48
+lovel=32 hivel=47
+offset=0 end=20882
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_B3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=47
+lovel=32 hivel=47
+offset=0 end=30663
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=46
+lovel=32 hivel=47
+offset=0 end=26395
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=45
+lovel=32 hivel=47
+offset=0 end=21804
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=44
+lovel=32 hivel=47
+offset=0 end=35924
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=43
+lovel=32 hivel=47
+offset=0 end=24060
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=42
+lovel=32 hivel=47
+offset=0 end=34370
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=41
+lovel=32 hivel=47
+offset=0 end=25485
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_E3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=40
+lovel=32 hivel=47
+offset=0 end=20599
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=39
+lovel=32 hivel=47
+offset=0 end=32499
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=38
+lovel=32 hivel=47
+offset=0 end=23621
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=37
+lovel=32 hivel=47
+offset=0 end=20306
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=36
+lovel=32 hivel=47
+offset=0 end=27825
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_B2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=35
+lovel=32 hivel=47
+offset=0 end=19575
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=34
+lovel=32 hivel=47
+offset=0 end=29051
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=33
+lovel=32 hivel=47
+offset=0 end=38062
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=32
+lovel=32 hivel=47
+offset=0 end=28754
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_G2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=31
+lovel=32 hivel=47
+offset=0 end=21482
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=30
+lovel=32 hivel=47
+offset=0 end=24149
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_F2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=29
+lovel=32 hivel=47
+offset=0 end=26674
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_E2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=28
+lovel=32 hivel=47
+offset=0 end=32249
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=27
+lovel=32 hivel=47
+offset=0 end=38808
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_D2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=26
+lovel=32 hivel=47
+offset=0 end=28583
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=25
+lovel=32 hivel=47
+offset=0 end=23201
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_C2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=24
+lovel=32 hivel=47
+offset=0 end=31749
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_B1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=23
+lovel=32 hivel=47
+offset=0 end=22790
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A#1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=22
+lovel=32 hivel=47
+offset=0 end=28084
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/06_A1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=21
+lovel=32 hivel=47
+offset=0 end=27254
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=105
+lovel=48 hivel=63
+offset=0 end=29045
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=104
+lovel=48 hivel=63
+offset=0 end=22016
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=103
+lovel=48 hivel=63
+offset=0 end=24674
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=102
+lovel=48 hivel=63
+offset=0 end=25050
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=101
+lovel=48 hivel=63
+offset=0 end=19228
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_E8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=100
+lovel=48 hivel=63
+offset=0 end=16641
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=99
+lovel=48 hivel=63
+offset=0 end=22578
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=98
+lovel=48 hivel=63
+offset=0 end=17749
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=97
+lovel=48 hivel=63
+offset=0 end=21545
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=96
+lovel=48 hivel=63
+offset=0 end=21218
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_B7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=95
+lovel=48 hivel=63
+offset=0 end=20794
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=94
+lovel=48 hivel=63
+offset=0 end=20227
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=93
+lovel=48 hivel=63
+offset=0 end=16233
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=92
+lovel=48 hivel=63
+offset=0 end=24579
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=91
+lovel=48 hivel=63
+offset=0 end=24688
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=90
+lovel=48 hivel=63
+offset=0 end=19591
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=89
+lovel=48 hivel=63
+offset=0 end=18279
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_E7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=88
+lovel=48 hivel=63
+offset=0 end=14183
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=87
+lovel=48 hivel=63
+offset=0 end=20722
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=86
+lovel=48 hivel=63
+offset=0 end=28654
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=85
+lovel=48 hivel=63
+offset=0 end=17912
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=84
+lovel=48 hivel=63
+offset=0 end=23928
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_B6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=83
+lovel=48 hivel=63
+offset=0 end=16770
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=82
+lovel=48 hivel=63
+offset=0 end=21815
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=81
+lovel=48 hivel=63
+offset=0 end=22128
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=80
+lovel=48 hivel=63
+offset=0 end=22376
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=79
+lovel=48 hivel=63
+offset=0 end=22467
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=78
+lovel=48 hivel=63
+offset=0 end=18912
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=77
+lovel=48 hivel=63
+offset=0 end=18703
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_E6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=76
+lovel=48 hivel=63
+offset=0 end=22729
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=75
+lovel=48 hivel=63
+offset=0 end=21596
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=74
+lovel=48 hivel=63
+offset=0 end=17035
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=73
+lovel=48 hivel=63
+offset=0 end=18173
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=72
+lovel=48 hivel=63
+offset=0 end=23775
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_B5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=71
+lovel=48 hivel=63
+offset=0 end=24832
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=70
+lovel=48 hivel=63
+offset=0 end=22741
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=69
+lovel=48 hivel=63
+offset=0 end=29410
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=68
+lovel=48 hivel=63
+offset=0 end=24391
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=67
+lovel=48 hivel=63
+offset=0 end=24080
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=66
+lovel=48 hivel=63
+offset=0 end=15542
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=65
+lovel=48 hivel=63
+offset=0 end=30265
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_E5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=64
+lovel=48 hivel=63
+offset=0 end=31729
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=63
+lovel=48 hivel=63
+offset=0 end=30279
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=62
+lovel=48 hivel=63
+offset=0 end=30554
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=61
+lovel=48 hivel=63
+offset=0 end=26941
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=60
+lovel=48 hivel=63
+offset=0 end=27255
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_B4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=59
+lovel=48 hivel=63
+offset=0 end=25050
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=58
+lovel=48 hivel=63
+offset=0 end=35097
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=57
+lovel=48 hivel=63
+offset=0 end=25977
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=56
+lovel=48 hivel=63
+offset=0 end=26060
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=55
+lovel=48 hivel=63
+offset=0 end=28959
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=54
+lovel=48 hivel=63
+offset=0 end=31029
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=53
+lovel=48 hivel=63
+offset=0 end=32228
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_E4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=52
+lovel=48 hivel=63
+offset=0 end=34195
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=51
+lovel=48 hivel=63
+offset=0 end=22740
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=50
+lovel=48 hivel=63
+offset=0 end=27164
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=49
+lovel=48 hivel=63
+offset=0 end=32800
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=48
+lovel=48 hivel=63
+offset=0 end=29914
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_B3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=47
+lovel=48 hivel=63
+offset=0 end=29159
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=46
+lovel=48 hivel=63
+offset=0 end=33172
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=45
+lovel=48 hivel=63
+offset=0 end=25479
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=44
+lovel=48 hivel=63
+offset=0 end=36243
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=43
+lovel=48 hivel=63
+offset=0 end=29902
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=42
+lovel=48 hivel=63
+offset=0 end=20287
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=41
+lovel=48 hivel=63
+offset=0 end=36565
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_E3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=40
+lovel=48 hivel=63
+offset=0 end=21760
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=39
+lovel=48 hivel=63
+offset=0 end=25165
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=38
+lovel=48 hivel=63
+offset=0 end=24604
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=37
+lovel=48 hivel=63
+offset=0 end=27890
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=36
+lovel=48 hivel=63
+offset=0 end=23190
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_B2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=35
+lovel=48 hivel=63
+offset=0 end=21454
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=34
+lovel=48 hivel=63
+offset=0 end=27014
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=33
+lovel=48 hivel=63
+offset=0 end=31899
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=32
+lovel=48 hivel=63
+offset=0 end=34246
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_G2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=31
+lovel=48 hivel=63
+offset=0 end=32013
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=30
+lovel=48 hivel=63
+offset=0 end=29167
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_F2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=29
+lovel=48 hivel=63
+offset=0 end=32356
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_E2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=28
+lovel=48 hivel=63
+offset=0 end=32954
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=27
+lovel=48 hivel=63
+offset=0 end=31478
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_D2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=26
+lovel=48 hivel=63
+offset=0 end=30562
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=25
+lovel=48 hivel=63
+offset=0 end=25857
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_C2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=24
+lovel=48 hivel=63
+offset=0 end=34577
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_B1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=23
+lovel=48 hivel=63
+offset=0 end=25292
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A#1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=22
+lovel=48 hivel=63
+offset=0 end=26914
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/05_A1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=21
+lovel=48 hivel=63
+offset=0 end=29636
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=105
+lovel=64 hivel=79
+offset=0 end=23573
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=104
+lovel=64 hivel=79
+offset=0 end=22288
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=103
+lovel=64 hivel=79
+offset=0 end=28993
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=102
+lovel=64 hivel=79
+offset=0 end=20555
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=101
+lovel=64 hivel=79
+offset=0 end=18452
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_E8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=100
+lovel=64 hivel=79
+offset=0 end=19919
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=99
+lovel=64 hivel=79
+offset=0 end=18489
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=98
+lovel=64 hivel=79
+offset=0 end=17177
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=97
+lovel=64 hivel=79
+offset=0 end=31265
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=96
+lovel=64 hivel=79
+offset=0 end=23095
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_B7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=95
+lovel=64 hivel=79
+offset=0 end=20598
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=94
+lovel=64 hivel=79
+offset=0 end=19404
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=93
+lovel=64 hivel=79
+offset=0 end=22729
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=92
+lovel=64 hivel=79
+offset=0 end=16860
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=91
+lovel=64 hivel=79
+offset=0 end=30267
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=90
+lovel=64 hivel=79
+offset=0 end=18977
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=89
+lovel=64 hivel=79
+offset=0 end=19282
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_E7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=88
+lovel=64 hivel=79
+offset=0 end=34365
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=87
+lovel=64 hivel=79
+offset=0 end=17410
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=86
+lovel=64 hivel=79
+offset=0 end=23091
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=85
+lovel=64 hivel=79
+offset=0 end=18556
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=84
+lovel=64 hivel=79
+offset=0 end=25684
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_B6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=83
+lovel=64 hivel=79
+offset=0 end=20714
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=82
+lovel=64 hivel=79
+offset=0 end=21016
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=81
+lovel=64 hivel=79
+offset=0 end=30152
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=80
+lovel=64 hivel=79
+offset=0 end=18118
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=79
+lovel=64 hivel=79
+offset=0 end=24190
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=78
+lovel=64 hivel=79
+offset=0 end=23153
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=77
+lovel=64 hivel=79
+offset=0 end=16662
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_E6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=76
+lovel=64 hivel=79
+offset=0 end=24024
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=75
+lovel=64 hivel=79
+offset=0 end=24321
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=74
+lovel=64 hivel=79
+offset=0 end=18059
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=73
+lovel=64 hivel=79
+offset=0 end=24250
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=72
+lovel=64 hivel=79
+offset=0 end=19666
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_B5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=71
+lovel=64 hivel=79
+offset=0 end=22711
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=70
+lovel=64 hivel=79
+offset=0 end=21960
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=69
+lovel=64 hivel=79
+offset=0 end=21143
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=68
+lovel=64 hivel=79
+offset=0 end=28621
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=67
+lovel=64 hivel=79
+offset=0 end=27626
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=66
+lovel=64 hivel=79
+offset=0 end=25584
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=65
+lovel=64 hivel=79
+offset=0 end=22478
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_E5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=64
+lovel=64 hivel=79
+offset=0 end=21736
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=63
+lovel=64 hivel=79
+offset=0 end=27814
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=62
+lovel=64 hivel=79
+offset=0 end=22049
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=61
+lovel=64 hivel=79
+offset=0 end=26630
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=60
+lovel=64 hivel=79
+offset=0 end=24439
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_B4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=59
+lovel=64 hivel=79
+offset=0 end=25885
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=58
+lovel=64 hivel=79
+offset=0 end=29642
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=57
+lovel=64 hivel=79
+offset=0 end=23318
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=56
+lovel=64 hivel=79
+offset=0 end=21245
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=55
+lovel=64 hivel=79
+offset=0 end=26659
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=54
+lovel=64 hivel=79
+offset=0 end=29134
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=53
+lovel=64 hivel=79
+offset=0 end=30223
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_E4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=52
+lovel=64 hivel=79
+offset=0 end=25468
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=51
+lovel=64 hivel=79
+offset=0 end=27411
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=50
+lovel=64 hivel=79
+offset=0 end=22723
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=49
+lovel=64 hivel=79
+offset=0 end=34545
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=48
+lovel=64 hivel=79
+offset=0 end=26240
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_B3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=47
+lovel=64 hivel=79
+offset=0 end=25087
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=46
+lovel=64 hivel=79
+offset=0 end=32628
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=45
+lovel=64 hivel=79
+offset=0 end=26701
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=44
+lovel=64 hivel=79
+offset=0 end=34859
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=43
+lovel=64 hivel=79
+offset=0 end=34786
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=42
+lovel=64 hivel=79
+offset=0 end=27255
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=41
+lovel=64 hivel=79
+offset=0 end=26956
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_E3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=40
+lovel=64 hivel=79
+offset=0 end=23244
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=39
+lovel=64 hivel=79
+offset=0 end=16626
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=38
+lovel=64 hivel=79
+offset=0 end=31374
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=37
+lovel=64 hivel=79
+offset=0 end=21873
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=36
+lovel=64 hivel=79
+offset=0 end=24291
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_B2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=35
+lovel=64 hivel=79
+offset=0 end=25818
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=34
+lovel=64 hivel=79
+offset=0 end=37773
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=33
+lovel=64 hivel=79
+offset=0 end=25816
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=32
+lovel=64 hivel=79
+offset=0 end=34145
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_G2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=31
+lovel=64 hivel=79
+offset=0 end=34088
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=30
+lovel=64 hivel=79
+offset=0 end=31604
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_F2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=29
+lovel=64 hivel=79
+offset=0 end=22314
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_E2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=28
+lovel=64 hivel=79
+offset=0 end=30324
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=27
+lovel=64 hivel=79
+offset=0 end=24583
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_D2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=26
+lovel=64 hivel=79
+offset=0 end=22781
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=25
+lovel=64 hivel=79
+offset=0 end=23475
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_C2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=24
+lovel=64 hivel=79
+offset=0 end=38266
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_B1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=23
+lovel=64 hivel=79
+offset=0 end=27947
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A#1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=22
+lovel=64 hivel=79
+offset=0 end=31926
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/04_A1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=21
+lovel=64 hivel=79
+offset=0 end=28373
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=105
+lovel=80 hivel=95
+offset=0 end=19134
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=104
+lovel=80 hivel=95
+offset=0 end=27062
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=103
+lovel=80 hivel=95
+offset=0 end=22284
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=102
+lovel=80 hivel=95
+offset=0 end=23577
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=101
+lovel=80 hivel=95
+offset=0 end=19686
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_E8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=100
+lovel=80 hivel=95
+offset=0 end=24820
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=99
+lovel=80 hivel=95
+offset=0 end=19240
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=98
+lovel=80 hivel=95
+offset=0 end=18549
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=97
+lovel=80 hivel=95
+offset=0 end=18568
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=96
+lovel=80 hivel=95
+offset=0 end=19274
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_B7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=95
+lovel=80 hivel=95
+offset=0 end=20512
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=94
+lovel=80 hivel=95
+offset=0 end=19530
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=93
+lovel=80 hivel=95
+offset=0 end=17622
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=92
+lovel=80 hivel=95
+offset=0 end=22875
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=91
+lovel=80 hivel=95
+offset=0 end=22780
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=90
+lovel=80 hivel=95
+offset=0 end=17751
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=89
+lovel=80 hivel=95
+offset=0 end=22598
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_E7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=88
+lovel=80 hivel=95
+offset=0 end=20317
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=87
+lovel=80 hivel=95
+offset=0 end=14302
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=86
+lovel=80 hivel=95
+offset=0 end=22285
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=85
+lovel=80 hivel=95
+offset=0 end=27311
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=84
+lovel=80 hivel=95
+offset=0 end=23400
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_B6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=83
+lovel=80 hivel=95
+offset=0 end=19994
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=82
+lovel=80 hivel=95
+offset=0 end=22961
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=81
+lovel=80 hivel=95
+offset=0 end=22960
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=80
+lovel=80 hivel=95
+offset=0 end=23754
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=79
+lovel=80 hivel=95
+offset=0 end=19424
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=78
+lovel=80 hivel=95
+offset=0 end=24990
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=77
+lovel=80 hivel=95
+offset=0 end=22632
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_E6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=76
+lovel=80 hivel=95
+offset=0 end=36429
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=75
+lovel=80 hivel=95
+offset=0 end=27001
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=74
+lovel=80 hivel=95
+offset=0 end=36504
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=73
+lovel=80 hivel=95
+offset=0 end=23952
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=72
+lovel=80 hivel=95
+offset=0 end=14700
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_B5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=71
+lovel=80 hivel=95
+offset=0 end=26643
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=70
+lovel=80 hivel=95
+offset=0 end=23272
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=69
+lovel=80 hivel=95
+offset=0 end=26939
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=68
+lovel=80 hivel=95
+offset=0 end=25585
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=67
+lovel=80 hivel=95
+offset=0 end=25405
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=66
+lovel=80 hivel=95
+offset=0 end=15373
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=65
+lovel=80 hivel=95
+offset=0 end=37244
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_E5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=64
+lovel=80 hivel=95
+offset=0 end=26147
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=63
+lovel=80 hivel=95
+offset=0 end=23828
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=62
+lovel=80 hivel=95
+offset=0 end=26876
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=61
+lovel=80 hivel=95
+offset=0 end=26589
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=60
+lovel=80 hivel=95
+offset=0 end=32802
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_B4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=59
+lovel=80 hivel=95
+offset=0 end=22824
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=58
+lovel=80 hivel=95
+offset=0 end=27483
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=57
+lovel=80 hivel=95
+offset=0 end=21065
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=56
+lovel=80 hivel=95
+offset=0 end=27555
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=55
+lovel=80 hivel=95
+offset=0 end=24660
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=54
+lovel=80 hivel=95
+offset=0 end=31063
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=53
+lovel=80 hivel=95
+offset=0 end=33736
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_E4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=52
+lovel=80 hivel=95
+offset=0 end=26767
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=51
+lovel=80 hivel=95
+offset=0 end=21022
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=50
+lovel=80 hivel=95
+offset=0 end=33038
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=49
+lovel=80 hivel=95
+offset=0 end=40659
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=48
+lovel=80 hivel=95
+offset=0 end=31846
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_B3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=47
+lovel=80 hivel=95
+offset=0 end=37156
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=46
+lovel=80 hivel=95
+offset=0 end=43343
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=45
+lovel=80 hivel=95
+offset=0 end=28803
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=44
+lovel=80 hivel=95
+offset=0 end=53584
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=43
+lovel=80 hivel=95
+offset=0 end=29805
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=42
+lovel=80 hivel=95
+offset=0 end=18743
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=41
+lovel=80 hivel=95
+offset=0 end=40516
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_E3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=40
+lovel=80 hivel=95
+offset=0 end=25556
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=39
+lovel=80 hivel=95
+offset=0 end=23614
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=38
+lovel=80 hivel=95
+offset=0 end=19303
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=37
+lovel=80 hivel=95
+offset=0 end=19224
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=36
+lovel=80 hivel=95
+offset=0 end=25319
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_B2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=35
+lovel=80 hivel=95
+offset=0 end=26121
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=34
+lovel=80 hivel=95
+offset=0 end=38188
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=33
+lovel=80 hivel=95
+offset=0 end=20137
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=32
+lovel=80 hivel=95
+offset=0 end=30262
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_G2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=31
+lovel=80 hivel=95
+offset=0 end=28803
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=30
+lovel=80 hivel=95
+offset=0 end=25992
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_F2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=29
+lovel=80 hivel=95
+offset=0 end=23732
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_E2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=28
+lovel=80 hivel=95
+offset=0 end=28179
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=27
+lovel=80 hivel=95
+offset=0 end=36959
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_D2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=26
+lovel=80 hivel=95
+offset=0 end=23091
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=25
+lovel=80 hivel=95
+offset=0 end=25367
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_C2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=24
+lovel=80 hivel=95
+offset=0 end=26480
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_B1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=23
+lovel=80 hivel=95
+offset=0 end=31312
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A#1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=22
+lovel=80 hivel=95
+offset=0 end=26636
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/03_A1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=21
+lovel=80 hivel=95
+offset=0 end=28439
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=105
+lovel=96 hivel=111
+offset=0 end=19356
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=104
+lovel=96 hivel=111
+offset=0 end=28211
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=103
+lovel=96 hivel=111
+offset=0 end=26759
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=102
+lovel=96 hivel=111
+offset=0 end=25416
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=101
+lovel=96 hivel=111
+offset=0 end=27334
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_E8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=100
+lovel=96 hivel=111
+offset=0 end=23447
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=99
+lovel=96 hivel=111
+offset=0 end=28097
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=98
+lovel=96 hivel=111
+offset=0 end=23321
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=97
+lovel=96 hivel=111
+offset=0 end=20160
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=96
+lovel=96 hivel=111
+offset=0 end=20400
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_B7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=95
+lovel=96 hivel=111
+offset=0 end=23203
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=94
+lovel=96 hivel=111
+offset=0 end=19474
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=93
+lovel=96 hivel=111
+offset=0 end=17933
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=92
+lovel=96 hivel=111
+offset=0 end=22781
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=91
+lovel=96 hivel=111
+offset=0 end=39978
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=90
+lovel=96 hivel=111
+offset=0 end=18506
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=89
+lovel=96 hivel=111
+offset=0 end=21926
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_E7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=88
+lovel=96 hivel=111
+offset=0 end=18786
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=87
+lovel=96 hivel=111
+offset=0 end=19453
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=86
+lovel=96 hivel=111
+offset=0 end=24332
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=85
+lovel=96 hivel=111
+offset=0 end=22964
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=84
+lovel=96 hivel=111
+offset=0 end=21577
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_B6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=83
+lovel=96 hivel=111
+offset=0 end=27625
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=82
+lovel=96 hivel=111
+offset=0 end=30100
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=81
+lovel=96 hivel=111
+offset=0 end=24566
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=80
+lovel=96 hivel=111
+offset=0 end=20399
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=79
+lovel=96 hivel=111
+offset=0 end=17157
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=78
+lovel=96 hivel=111
+offset=0 end=17532
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=77
+lovel=96 hivel=111
+offset=0 end=24922
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_E6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=76
+lovel=96 hivel=111
+offset=0 end=22155
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=75
+lovel=96 hivel=111
+offset=0 end=17217
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=74
+lovel=96 hivel=111
+offset=0 end=25154
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=73
+lovel=96 hivel=111
+offset=0 end=25211
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=72
+lovel=96 hivel=111
+offset=0 end=25156
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_B5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=71
+lovel=96 hivel=111
+offset=0 end=24027
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=70
+lovel=96 hivel=111
+offset=0 end=17492
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=69
+lovel=96 hivel=111
+offset=0 end=21021
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=68
+lovel=96 hivel=111
+offset=0 end=28080
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=67
+lovel=96 hivel=111
+offset=0 end=26745
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=66
+lovel=96 hivel=111
+offset=0 end=22220
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=65
+lovel=96 hivel=111
+offset=0 end=31488
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_E5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=64
+lovel=96 hivel=111
+offset=0 end=29191
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=63
+lovel=96 hivel=111
+offset=0 end=27035
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=62
+lovel=96 hivel=111
+offset=0 end=19206
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=61
+lovel=96 hivel=111
+offset=0 end=27800
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=60
+lovel=96 hivel=111
+offset=0 end=29282
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_B4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=59
+lovel=96 hivel=111
+offset=0 end=19588
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=58
+lovel=96 hivel=111
+offset=0 end=19813
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=57
+lovel=96 hivel=111
+offset=0 end=26402
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=56
+lovel=96 hivel=111
+offset=0 end=32157
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=55
+lovel=96 hivel=111
+offset=0 end=29305
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=54
+lovel=96 hivel=111
+offset=0 end=24288
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=53
+lovel=96 hivel=111
+offset=0 end=30118
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_E4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=52
+lovel=96 hivel=111
+offset=0 end=28369
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=51
+lovel=96 hivel=111
+offset=0 end=30673
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=50
+lovel=96 hivel=111
+offset=0 end=38725
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=49
+lovel=96 hivel=111
+offset=0 end=26621
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=48
+lovel=96 hivel=111
+offset=0 end=26725
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_B3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=47
+lovel=96 hivel=111
+offset=0 end=34802
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=46
+lovel=96 hivel=111
+offset=0 end=28652
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=45
+lovel=96 hivel=111
+offset=0 end=27238
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=44
+lovel=96 hivel=111
+offset=0 end=32506
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=43
+lovel=96 hivel=111
+offset=0 end=47077
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=42
+lovel=96 hivel=111
+offset=0 end=23226
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=41
+lovel=96 hivel=111
+offset=0 end=34667
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_E3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=40
+lovel=96 hivel=111
+offset=0 end=24597
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=39
+lovel=96 hivel=111
+offset=0 end=24267
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=38
+lovel=96 hivel=111
+offset=0 end=25115
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=37
+lovel=96 hivel=111
+offset=0 end=31377
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=36
+lovel=96 hivel=111
+offset=0 end=21853
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_B2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=35
+lovel=96 hivel=111
+offset=0 end=20353
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=34
+lovel=96 hivel=111
+offset=0 end=35009
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=33
+lovel=96 hivel=111
+offset=0 end=26058
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=32
+lovel=96 hivel=111
+offset=0 end=30893
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_G2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=31
+lovel=96 hivel=111
+offset=0 end=26970
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=30
+lovel=96 hivel=111
+offset=0 end=24518
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_F2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=29
+lovel=96 hivel=111
+offset=0 end=23961
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_E2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=28
+lovel=96 hivel=111
+offset=0 end=37973
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=27
+lovel=96 hivel=111
+offset=0 end=25011
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_D2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=26
+lovel=96 hivel=111
+offset=0 end=16933
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=25
+lovel=96 hivel=111
+offset=0 end=29830
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_C2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=24
+lovel=96 hivel=111
+offset=0 end=32563
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_B1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=23
+lovel=96 hivel=111
+offset=0 end=30909
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A#1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=22
+lovel=96 hivel=111
+offset=0 end=32809
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/02_A1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=21
+lovel=96 hivel=111
+offset=0 end=26837
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=105
+lovel=112
+offset=0 end=25796
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=104
+lovel=112
+offset=0 end=20229
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=103
+lovel=112
+offset=0 end=36644
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=102
+lovel=112
+offset=0 end=27743
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=101
+lovel=112
+offset=0 end=29102
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_E8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=100
+lovel=112
+offset=0 end=23353
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=99
+lovel=112
+offset=0 end=17177
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=98
+lovel=112
+offset=0 end=24185
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C#8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=97
+lovel=112
+offset=0 end=13028
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C8_Release_Lutheal_Piano_-_Cimbalom.flac
+key=96
+lovel=112
+offset=0 end=14690
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_B7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=95
+lovel=112
+offset=0 end=21500
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=94
+lovel=112
+offset=0 end=23538
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=93
+lovel=112
+offset=0 end=17365
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=92
+lovel=112
+offset=0 end=27856
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=91
+lovel=112
+offset=0 end=28114
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=90
+lovel=112
+offset=0 end=22636
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=89
+lovel=112
+offset=0 end=16217
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_E7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=88
+lovel=112
+offset=0 end=22714
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=87
+lovel=112
+offset=0 end=25615
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=86
+lovel=112
+offset=0 end=22657
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C#7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=85
+lovel=112
+offset=0 end=19543
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C7_Release_Lutheal_Piano_-_Cimbalom.flac
+key=84
+lovel=112
+offset=0 end=26744
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_B6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=83
+lovel=112
+offset=0 end=46151
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=82
+lovel=112
+offset=0 end=30971
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=81
+lovel=112
+offset=0 end=31143
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=80
+lovel=112
+offset=0 end=26388
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=79
+lovel=112
+offset=0 end=22822
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=78
+lovel=112
+offset=0 end=21896
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=77
+lovel=112
+offset=0 end=25350
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_E6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=76
+lovel=112
+offset=0 end=17092
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=75
+lovel=112
+offset=0 end=32331
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=74
+lovel=112
+offset=0 end=32112
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C#6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=73
+lovel=112
+offset=0 end=21171
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C6_Release_Lutheal_Piano_-_Cimbalom.flac
+key=72
+lovel=112
+offset=0 end=19134
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_B5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=71
+lovel=112
+offset=0 end=22116
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=70
+lovel=112
+offset=0 end=21850
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=69
+lovel=112
+offset=0 end=30456
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=68
+lovel=112
+offset=0 end=26996
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=67
+lovel=112
+offset=0 end=19570
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=66
+lovel=112
+offset=0 end=26355
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=65
+lovel=112
+offset=0 end=29524
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_E5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=64
+lovel=112
+offset=0 end=27267
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=63
+lovel=112
+offset=0 end=19970
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=62
+lovel=112
+offset=0 end=21491
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C#5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=61
+lovel=112
+offset=0 end=25165
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C5_Release_Lutheal_Piano_-_Cimbalom.flac
+key=60
+lovel=112
+offset=0 end=24938
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_B4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=59
+lovel=112
+offset=0 end=26158
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=58
+lovel=112
+offset=0 end=24478
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=57
+lovel=112
+offset=0 end=19000
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=56
+lovel=112
+offset=0 end=27186
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=55
+lovel=112
+offset=0 end=34028
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=54
+lovel=112
+offset=0 end=37909
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=53
+lovel=112
+offset=0 end=28218
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_E4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=52
+lovel=112
+offset=0 end=27560
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=51
+lovel=112
+offset=0 end=33202
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=50
+lovel=112
+offset=0 end=26718
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C#4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=49
+lovel=112
+offset=0 end=41456
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C4_Release_Lutheal_Piano_-_Cimbalom.flac
+key=48
+lovel=112
+offset=0 end=43177
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_B3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=47
+lovel=112
+offset=0 end=28581
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=46
+lovel=112
+offset=0 end=25204
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=45
+lovel=112
+offset=0 end=36798
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=44
+lovel=112
+offset=0 end=29171
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=43
+lovel=112
+offset=0 end=24854
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=42
+lovel=112
+offset=0 end=33700
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=41
+lovel=112
+offset=0 end=34121
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_E3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=40
+lovel=112
+offset=0 end=16676
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=39
+lovel=112
+offset=0 end=24271
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=38
+lovel=112
+offset=0 end=23792
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C#3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=37
+lovel=112
+offset=0 end=22073
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C3_Release_Lutheal_Piano_-_Cimbalom.flac
+key=36
+lovel=112
+offset=0 end=24178
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_B2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=35
+lovel=112
+offset=0 end=25612
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=34
+lovel=112
+offset=0 end=29665
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=33
+lovel=112
+offset=0 end=26317
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=32
+lovel=112
+offset=0 end=27035
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_G2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=31
+lovel=112
+offset=0 end=26505
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=30
+lovel=112
+offset=0 end=26261
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_F2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=29
+lovel=112
+offset=0 end=21284
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_E2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=28
+lovel=112
+offset=0 end=25574
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=27
+lovel=112
+offset=0 end=29760
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_D2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=26
+lovel=112
+offset=0 end=21078
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C#2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=25
+lovel=112
+offset=0 end=30572
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_C2_Release_Lutheal_Piano_-_Cimbalom.flac
+key=24
+lovel=112
+offset=0 end=36834
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_B1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=23
+lovel=112
+offset=0 end=29157
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A#1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=22
+lovel=112
+offset=0 end=31360
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
+
+<region>
+sample=Luthéal Piano - Release Cimbalom (All Stops) Samples/01_A1_Release_Lutheal_Piano_-_Cimbalom.flac
+key=21
+lovel=112
+offset=0 end=24761
+volume=-6.02 amp_veltrack=0.00
+bend_up=200
+bend_down=-200
+loop_mode=no_loop 
